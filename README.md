@@ -1,5 +1,5 @@
 # MansOpenSource
-<img src="icon.png" align="right" />
+![SQL-Injection](icon.png)
 *Nourhan Wagdi*
 ===========
 **veryyyyyyy bold**
