@@ -1,5 +1,5 @@
 # MansOpenSource
-<img src="icon.png" align="right" />
+![alt text](figures/icon.png)
 *Nourhan Wagdi*
 ===========
 **veryyyyyyy bold**
