@@ -11,7 +11,7 @@ Internet supports various features such as scalability and that too at a lowest 
 2. Necessary for discovering source, communicate per-flow bit rates & detect network congestion by estimating RTT
 3. BFFs can be generated asynchronously. (RTT cannot be calculated in this case).
 
-**For more information about "Network Border Patrol" and how it works, follow [this link.](https://scialert.net/fulltextmobile/?doi=itj.2006.427.432)
+**For more information about "Network Border Patrol" and how it works, follow [this link.](https://scialert.net/fulltextmobile/?doi=itj.2006.427.432) **
 
 ------------
 ###### *Nourhan Wagdi*
