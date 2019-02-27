@@ -14,6 +14,8 @@ Internet supports various features such as scalability and that too at a lowest 
 ![Forward_and_Backward_feedback_packets_exchanged_by_edge_routers](fig1.PNG)
 (Fig.1)
 
+*****
+
 __For more information about "Network Border Patrol" and how it works, follow__ [this link.](https://scialert.net/fulltextmobile/?doi=itj.2006.427.432)
 
 *Nourhan Wagdi*
