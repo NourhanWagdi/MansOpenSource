@@ -9,6 +9,6 @@ Internet supports various features such as scalability and that too at a lowest 
 ## Goals
 1. Eliminate congestion collapse resulting from undelivered packets
 2. Necessary for discovering source, communicate per-flow bit rates & detect network congestion by estimating RTT
-3. BFFs can be generated asynchronously. (RTT cannot be calculated in this case)
+3. BFFs can be generated asynchronously. (RTT cannot be calculated in this case).
 
 **Nourhan Wagdi**
