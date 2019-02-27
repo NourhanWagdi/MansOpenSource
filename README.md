@@ -12,7 +12,7 @@ Internet supports various features such as scalability and that too at a lowest 
 3. Backward feedback packets can be generated asynchronously. as in Fig 1 (RTT cannot be calculated in this case).
 
 ![Forward and Backward feedback packets
-exchanged by edge routers](fig1.jpg)
+exchanged by edge routers](fig1.png)
 
 __For more information about "Network Border Patrol" and how it works, follow__ [this link.](https://scialert.net/fulltextmobile/?doi=itj.2006.427.432)
 
